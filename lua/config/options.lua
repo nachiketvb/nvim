@@ -3,3 +3,6 @@
 -- Add any additional options here
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
+vim.opt.ignorecase = false
+vim.opt.smartcase = false
+vim.opt.shiftwidth = 4
