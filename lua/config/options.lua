@@ -6,3 +6,4 @@ vim.opt.incsearch = true
 vim.opt.ignorecase = false
 vim.opt.smartcase = false
 vim.opt.shiftwidth = 4
+vim.opt.background = "dark"
